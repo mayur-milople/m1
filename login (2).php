@@ -94,7 +94,7 @@ input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 15px;
   resize: vertical;
 }
 
@@ -105,7 +105,7 @@ label {
 
 input[type=submit] {
   background-color: #4CAF50;
-  color: white;
+  color: #fff;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
@@ -187,7 +187,7 @@ body {
 }
 
 .header {
-  text-align: center;
+  text-align: left;
   padding: 32px;
 }
 
