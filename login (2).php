@@ -677,6 +677,12 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
       <div class="col-25">
         <label for="lname">Email</label>
       </div>
+      <div class="col-25">
+        <label for="lname">Username</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="lname" name="Username" placeholder="neter your username" style="width : 45%;">
+      </div>
       <div class="col-75">
         <input type="text" id="lname" name="email" placeholder="Your email.." style="width : 65%;">
       </div>
